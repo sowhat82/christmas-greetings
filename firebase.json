@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/projectday",
+    "public": "dist/christmas-greetings",
     "ignore": [
       "firebase.json",
       "**/.*",
